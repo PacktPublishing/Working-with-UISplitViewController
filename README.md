@@ -17,7 +17,7 @@ This is the same feature the iPad embraces when viewing apps in Landscape - sele
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Fundamentals knowledge iOS and Swift
+Fundamentals iOS and Swift
 
 ## Related Products
 * [Hands-On Web Development with Bootstrap and Vue [Video]](https://www.packtpub.com/web-development/hands-web-development-bootstrap-and-vue-video?utm_source=github&utm_medium=repository&utm_campaign=9781789950779)
